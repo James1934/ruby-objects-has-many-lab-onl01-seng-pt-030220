@@ -36,4 +36,3 @@ class Author
 
 
 end
-© 2020 GitHub, Inc.
