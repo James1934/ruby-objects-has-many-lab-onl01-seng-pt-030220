@@ -20,7 +20,7 @@ class Author
     @posts << post
     post.author = self
     @@posts << post
-    @@post_count += 1
+    @@post_count += 3
   end
 
 
