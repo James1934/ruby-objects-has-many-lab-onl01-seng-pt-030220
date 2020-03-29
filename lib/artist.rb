@@ -36,4 +36,3 @@ class Artist
   end
 
 end
-© 2020 GitHub, Inc.
